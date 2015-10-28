@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Midterm</string>
+	<string name="launch">Launch Url Activity</string>
+	<string name="log_started">Log started</string>
+	<string name="show_feed">Show dat Feed</string>
+	<string name="test">Test</string>
+	<string name="url_field_default">http://www.theregister.co.uk/software/os/headlines.atom</string>
+	<string name="url_label">Url ::</string>
+</resources>
